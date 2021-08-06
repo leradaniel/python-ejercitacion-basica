@@ -1,2 +1,2 @@
-# python-ejercitacion-basica
+# Ejercitación inicial de Python
 Ejercicios sencillos de Python
