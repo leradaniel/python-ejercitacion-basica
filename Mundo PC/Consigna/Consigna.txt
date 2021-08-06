@@ -1,0 +1,1 @@
+Ejercicio que consiste en crear el sistema de la imagen que está en la carpeta "Consignas", usando clases, herencia, encapsulamiento y agregación.

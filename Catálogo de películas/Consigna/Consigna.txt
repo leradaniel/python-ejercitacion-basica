@@ -1,0 +1,3 @@
+Se debe manipular un archivo .txt de películas.
+El contenido se modifica según indique el usuario, pudiendo agregar información, leerla o borrarla.
+Para ello se deben crear las carpetas, archivos y clases como indica el gráfico UML.
